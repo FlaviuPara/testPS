@@ -19,7 +19,7 @@ public class App1 {
         
         Laptop laptop1 = new Laptop("Le W12", 1200, "i3", 13);
         Laptop laptop2 = new Laptop("Asus X", 3000, "i7", 15);
-        Laptop laptop3 = new Laptop("Bangi 1", 400, "i3", 14);
+        Laptop laptop3 = new Laptop("Cucuruz 1", 9999, "i10", 1);
         
         Mobile mobile1 = new Mobile("Samsumg S4", 2300, "android", "32 GB");
         Mobile mobile2 = new Mobile("iPhone 6", 2500, "IOS", "64 GB");
