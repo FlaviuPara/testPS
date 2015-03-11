@@ -17,7 +17,7 @@ public class App1 {
     public static void main(String[] args) {
         Cart cart = new Cart();
         
-        Laptop laptop1 = new Laptop("Lenovo W12", 1200, "i3", 13);
+        Laptop laptop1 = new Laptop("Le W12", 1200, "i3", 13);
         Laptop laptop2 = new Laptop("Asus X", 3000, "i7", 15);
         Laptop laptop3 = new Laptop("Bangi 1", 400, "i3", 14);
         
